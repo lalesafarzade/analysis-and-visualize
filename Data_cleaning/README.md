@@ -26,5 +26,7 @@ Network analysis of Actors / Directors and find interesting insights
 
 Is Netflix has increasingly focusing on TV rather than movies in recent years.
 
+## Dataset References
 
+[https://www.kaggle.com/shivamb/netflix-shows](https://www.kaggle.com/shivamb/netflix-shows)
 
