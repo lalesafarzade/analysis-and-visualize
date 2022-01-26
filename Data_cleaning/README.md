@@ -1,7 +1,6 @@
 
 
 # Netflix Data Visualization
-
 ## Background
 
 ![Netflix](images/Netflix.png)
@@ -25,6 +24,35 @@ Identifying similar content by matching text-based features
 Network analysis of Actors / Directors and find interesting insights
 
 Is Netflix has increasingly focusing on TV rather than movies in recent years.
+
+![null](images/null.png)
+
+There is some null values in some columns.
+
+after dealing with missing value and duplicated value :
+
+![type&rate](images/type&rate.png)
+
+Distribution of top 10 countries:
+![top_countries](images/top_countries.png)
+
+Top 10 countries based on maturity rating:
+
+![country_rate](images/country_rate.png)
+
+Top 10 Date of month and year content addedd based on type:
+
+![year_month](images/year_month.png)
+
+Distribution of release_year of movie versus release_year of show TV:
+
+![yeas](images/years.png)
+
+Number of Movie Type:
+
+![movie_type](images/movie_type.png)
+
+See [My notebook](Netflix.ipynb) for exploring more gragh! 
 
 ## Dataset References
 
