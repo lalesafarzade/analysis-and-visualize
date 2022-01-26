@@ -54,7 +54,7 @@ Number of Movie Type:
 
 ![movie_type](Data_cleaning/images/movie_type.png)
 
-See [My notebook](Data_cleaning/Netflix.ipynb) for seeing more gragh! 
+See [My notebook](Data_cleaning/Netflix.ipynb) for exploring more gragh! 
 
 ## Dataset References
 
