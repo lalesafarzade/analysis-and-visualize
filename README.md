@@ -27,6 +27,29 @@ Network analysis of Actors / Directors and find interesting insights
 
 Is Netflix has increasingly focusing on TV rather than movies in recent years.
 
+![null](Data_cleaning/images/null.png)
+
+There is some null values in some columns.
+
+after dealing with missing value and duplicated value :
+
+![type&rate](Data_cleaning/images/type&rate.png)
+
+Distribution of top 10 countries:
+![top_countries](Data_cleaning/images/top_countries.png)
+
+Top 10 countries based on maturity rating:
+
+![country_rate](Data_cleaning/images/country_rate.png)
+
+Top 10 Date of month and year content addedd based on type:
+
+![year_month](Data_cleaning/images/year_month.png)
+
+Top 10 Date of month and year content addedd based on type:
+
+![year_month](Data_cleaning/images/year_month.png)
+
 ## Dataset References
 
 [https://www.kaggle.com/shivamb/netflix-shows](https://www.kaggle.com/shivamb/netflix-shows)
