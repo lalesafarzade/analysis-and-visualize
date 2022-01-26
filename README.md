@@ -54,12 +54,14 @@ Number of Movie Type:
 
 ![movie_type](Data_cleaning/images/movie_type.png)
 
+See [My notebook](Data_cleaning/Netflix.ipynb) for seeing more gragh! 
+
 ## Dataset References
 
 [https://www.kaggle.com/shivamb/netflix-shows](https://www.kaggle.com/shivamb/netflix-shows)
 
 # Europe bikes dataset
-![sale](Data_cleaning/images/sale.png)
+![bike](Data_cleaning/images/bike.png)
 
 In Europe bikes dataset , Extract the insight of sales in each country and each state of their countries.
 
@@ -70,6 +72,8 @@ Extract the value bale and meaningful insight from it
 Sales According to male and female or Products
 
 number of each product and its sales and so on.
+
+![sale](Data_cleaning/images/sale.png)
 
 ## Dataset References
 
