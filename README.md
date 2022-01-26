@@ -46,9 +46,13 @@ Top 10 Date of month and year content addedd based on type:
 
 ![year_month](Data_cleaning/images/year_month.png)
 
-Top 10 Date of month and year content addedd based on type:
+Distribution of release_year of movie versus release_year of show TV:
 
-![year_month](Data_cleaning/images/year_month.png)
+![yeas](Data_cleaning/images/years.png)
+
+Number of Movie Type:
+
+![movie_type](Data_cleaning/images/movie_type.png)
 
 ## Dataset References
 
